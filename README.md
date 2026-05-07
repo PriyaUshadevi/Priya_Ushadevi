@@ -2,6 +2,16 @@
   <img src="ChatGPT Image May 7, 2026, 09_14_21 PM.png" alt="Priya Ushadevi – Senior Test Lead Banner" width="100%">
 </p>
 
+<p align="center">
+  <!-- Tech Stack Badges -->
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=whit">
+  <img src="https://img.shields.io/badge/Workday-005EB8?style=for-the-badge&logo=workday&logoColor=white">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+</p>
 
 
 # Hi, I'm Priya 👋  
@@ -33,15 +43,15 @@ My current areas of interest include AI-assisted quality engineering, RAG-based 
 
 These are the 4 repositories that best represent my technical depth and leadership in QA engineering.
 
-1️⃣ Java Testing Automation Framework
-Tech: Java, TestNG, Selenium, Maven, Allure Reports, GitHub Actions
-Repo: java-testing-automation-framework
+### 1️⃣ Java Testing Automation Framework
+**Tech**: Java, TestNG, Selenium, Maven, Allure Reports, GitHub Actions
+**Repo**: java-testing-automation-framework
 
-🔍 Why this project matters
+### 🔍 Why this project matters
 Most automation frameworks fail because they are not scalable, maintainable, or CI‑ready.
 This framework demonstrates how I design enterprise‑grade automation that supports long‑term regression stability.
 
-🧩 Architecture Diagram
+### 🧩 Architecture Diagram
 
 ┌──────────────────────────────┐
 │        Test Runner           │
@@ -58,13 +68,13 @@ This framework demonstrates how I design enterprise‑grade automation that supp
 ┌───────────────▼──────────────┐
 │     Core Utilities Layer     │
 └──────────────────────────────┘
-🎥 Demo GIF (placeholder)
+### 🎥 Demo GIF (placeholder)
 /assets/java-framework-demo.gif
 
-📊 Sample Report
+### 📊 Sample Report
 /assets/allure-report-screenshot.png
 
-⚙️ CI/CD Example (GitHub Actions)
+### ⚙️ CI/CD Example (GitHub Actions)
 
 name: Regression Suite
 on: [push, pull_request]
@@ -80,63 +90,63 @@ jobs:
       - name: Run Tests
         run: mvn clean test
 
-2️⃣ Test Management – Jira Integration Tool
-Tech: Python/Java, Jira REST API, OAuth/Token Auth
-Repo: test-management-jira-integration
+### 2️⃣ Test Management – Jira Integration Tool
+**Tech**: Python/Java, Jira REST API, OAuth/Token Auth
+**Repo**: test-management-jira-integration
 
-🔍 Why this project matters
+### 🔍 Why this project matters
 Large QA teams struggle with duplicated test cases, inconsistent updates, and manual effort.
 This tool automates Jira test operations, improving traceability and reducing human error.
 
-🧩 Architecture Diagram
+### 🧩 Architecture Diagram
 
 User → CLI / UI → Integration Layer → Jira REST API → Xray / Test Issues
 
-📸 Screenshots
+### 📸 Screenshots
 Test case sync
 
 Automated status update
 
 Bulk creation flow
 
-🎥 Demo GIF
+### 🎥 Demo GIF
 /assets/jira-sync-demo.gif
 
-3️⃣ Test Case Deduplication Tool
-Tech: Python, NLP, Similarity Matching, CSV/JSON Processing
-Repo: test-case-deduplication-tool
+### 3️⃣ Test Case Deduplication Tool
+**Tech**: Python, NLP, Similarity Matching, CSV/JSON Processing
+**Repo**: test-case-deduplication-tool
 
-🔍 Why this project matters
+### 🔍 Why this project matters
 Enterprises often have thousands of duplicated test cases across teams.
 This tool identifies duplicates using similarity scoring, reducing maintenance cost and improving coverage clarity.
 
-📊 Example Input/Output
+### 📊 Example Input/Output
 Input:  1200 test cases  
 Output: 312 duplicates flagged  
 
-🧩 Architecture Diagram
+### 🧩 Architecture Diagram
 Test Case Data → Preprocessing → Similarity Engine → Duplicate Report
 
-📸 Screenshot
+### 📸 Screenshot
 /assets/dedup-report.png
 
-4️⃣ Selenium + Playwright Demo Suite
-Tech: Selenium, Playwright, JavaScript/TypeScript, GitHub Actions
-Repo: selenium-playwright-demo-suite
+### 4️⃣ Selenium + Playwright Demo Suite
+**Tech**: Selenium, Playwright, JavaScript/TypeScript, GitHub Actions
+**Repo**: selenium-playwright-demo-suite
 
-🔍 Why this project matters
+### 🔍 Why this project matters
 Modern QA teams need hybrid automation skills.
 This repo demonstrates my ability to work across both Selenium and Playwright, with CI‑ready examples.
 
-🧩 Architecture Diagram
+### 🧩 Architecture Diagram
 Selenium Suite → UI Regression  
 Playwright Suite → Fast Parallel Tests  
 Shared Utils → Reporting + Config
 
-🎥 Demo GIF
+### 🎥 Demo GIF
 /assets/playwright-vs-selenium.gif
 
-⚙️ CI/CD Example
+### ⚙️ CI/CD Example
 name: Cross-Framework Tests
 on: push
 jobs:
@@ -152,31 +162,22 @@ jobs:
       - uses: actions/checkout@v3
       - run: mvn test
 
-🧠 AI‑Assisted QA Concepts
+### 🧠 AI‑Assisted QA Concepts
 I actively explore how AI can support quality engineering through:
+    -LLM‑based validation
+    -RAG‑based testing knowledge retrieval
+    -Automated evidence review
+    -AI‑generated test analysis
 
-LLM‑based validation
-
-RAG‑based testing knowledge retrieval
-
-Automated evidence review
-
-AI‑generated test analysis
-
-📚 Workday HCM Testing Expertise
+### 📚 Workday HCM Testing Expertise
 I specialise in testing across:
-
-Payroll
-
-Compensation
-
-Integrations
-
-Business processes
-
-Security
-
-Reporting
+    -Advance Comp
+    -Payroll
+    -Compensation
+    -Integrations
+    -Business processes
+    -Security
+    -Reporting
 
 ## Problem Statement
 
