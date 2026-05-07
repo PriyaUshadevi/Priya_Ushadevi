@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="ChatGPT Image May 7, 2026, 09_14_21 PM.png" alt="Priya Ushadevi – Senior Test Lead Banner" width="100%">
+</p>
+
+
+
 # Hi, I'm Priya 👋  
 
 **Senior Test Lead | Quality Engineering | Workday HCM | Test Automation | AI in QA**  
